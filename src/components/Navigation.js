@@ -50,9 +50,9 @@ const Navigation = () => {
         <li>
           <Link to="/">
             <span aria-hidden="true" role="img">
-              🏠 Главная
+              🏠
             </span>
-
+            Главная
           </Link>
         </li>
         <li>
