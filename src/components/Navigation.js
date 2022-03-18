@@ -50,9 +50,9 @@ const Navigation = () => {
         <li>
           <Link to="/">
             <span aria-hidden="true" role="img">
-              🏠
+              🏠 Главная
             </span>
-            Home
+
           </Link>
         </li>
         <li>
@@ -60,7 +60,7 @@ const Navigation = () => {
             <span aria-hidden="true" role="img">
               📓
             </span>
-            My Notes
+            Мои заметки
           </Link>
         </li>
         <li>
@@ -68,7 +68,7 @@ const Navigation = () => {
             <span aria-hidden="true" role="img">
               🌟
             </span>
-            Favorites
+            Избранное
           </Link>
         </li>
         <li>
@@ -76,7 +76,7 @@ const Navigation = () => {
             <span aria-hidden="true" role="img">
               ➕
             </span>
-            New
+            Новая
           </Link>
         </li>
       </NavList>

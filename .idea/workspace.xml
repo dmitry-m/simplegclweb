@@ -2,128 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="353811b1-c753-4e9b-b73c-d03898e62705" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/Button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/ButtonAsLink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/DeleteNote.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/FavoriteNote.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/GlobalStyle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/Layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/Navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/Note.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/NoteFeed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/NoteForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/NoteUser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/components/UserForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/gql/mutation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/gql/query.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/pages/edit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/pages/favorites.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/pages/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/pages/mynotes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/pages/new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/pages/note.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/pages/signin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/final/pages/signup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/01-Web-Client-With-React/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/01-Web-Client-With-React/components/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/01-Web-Client-With-React/components/Navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/01-Web-Client-With-React/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/01-Web-Client-With-React/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/01-Web-Client-With-React/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/01-Web-Client-With-React/pages/favorites.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/01-Web-Client-With-React/pages/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/01-Web-Client-With-React/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/01-Web-Client-With-React/pages/mynotes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/components/Button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/components/GlobalStyle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/components/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/components/Layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/components/Navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/pages/favorites.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/pages/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/02-Styles/pages/mynotes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/components/Button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/components/GlobalStyle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/components/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/components/Layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/components/Navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/components/Note.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/components/NoteFeed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/pages/favorites.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/pages/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/pages/mynotes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03-GraphQL-Query/pages/note.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/components/Button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/components/ButtonAsLink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/components/GlobalStyle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/components/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/components/Layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/components/Navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/components/Note.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/components/NoteFeed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/components/UserForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/pages/favorites.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/pages/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/pages/mynotes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/pages/note.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/pages/signin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/04-Authentication-State/pages/signup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/Button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/ButtonAsLink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/DeleteNote.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/FavoriteNote.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/GlobalStyle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/Layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/Navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/Note.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/NoteFeed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/NoteForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/NoteUser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/components/UserForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/gql/mutation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/gql/query.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/pages/edit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/pages/favorites.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/pages/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/pages/mynotes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/pages/new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/pages/note.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/pages/signin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/05-CRUD/pages/signup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647598253128</updated>
-      <workItem from="1647598254538" duration="2819000" />
+      <workItem from="1647598254538" duration="3977000" />
     </task>
     <servers />
   </component>
